@@ -18,11 +18,13 @@
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
 ## Divide and Conquer
 |  |
@@ -32,4 +34,12 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
