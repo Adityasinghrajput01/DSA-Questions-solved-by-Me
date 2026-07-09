@@ -13,9 +13,23 @@
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1288-remove-covered-intervals) |
 ## Linked List
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
