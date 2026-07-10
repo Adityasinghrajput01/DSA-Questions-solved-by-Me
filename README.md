@@ -42,4 +42,8 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
+## Database
+|  |
+| ------- |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1741-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
