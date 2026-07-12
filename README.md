@@ -10,12 +10,14 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1741-find-total-time-spent-by-each-employee) |
+## Hash Table
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
