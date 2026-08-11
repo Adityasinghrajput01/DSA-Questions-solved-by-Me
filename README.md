@@ -31,11 +31,13 @@
 | [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -48,10 +50,12 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
 | ------- |
