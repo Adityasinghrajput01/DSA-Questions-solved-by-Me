@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
