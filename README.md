@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0172-factorial-trailing-zeroes) |
+| [0342-power-of-four](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -61,6 +62,7 @@
 | ------- |
 | [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0342-power-of-four) |
 ## Database
 |  |
 | ------- |
@@ -86,4 +88,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
