@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0016-3sum-closest) |
 | [0147-insertion-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1288-remove-covered-intervals) |
@@ -42,6 +44,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
