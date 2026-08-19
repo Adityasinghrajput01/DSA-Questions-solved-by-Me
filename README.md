@@ -16,6 +16,7 @@
 | [0015-3sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1288-remove-covered-intervals) |
@@ -26,6 +27,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1288-remove-covered-intervals) |
@@ -46,6 +48,7 @@
 | [0015-3sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -98,4 +101,12 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0342-power-of-four) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
