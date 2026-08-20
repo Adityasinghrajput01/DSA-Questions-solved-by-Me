@@ -22,6 +22,7 @@
 | [1288-remove-covered-intervals](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
 | ------- |
@@ -109,4 +110,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
