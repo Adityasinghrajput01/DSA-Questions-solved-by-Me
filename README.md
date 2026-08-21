@@ -10,6 +10,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Array
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Sorting
 |  |
 | ------- |
