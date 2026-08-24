@@ -19,6 +19,7 @@
 | [0016-3sum-closest](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -57,6 +58,7 @@
 | [0016-3sum-closest](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0148-sort-list) |
