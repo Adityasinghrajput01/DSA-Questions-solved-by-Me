@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0018-4sum) |
@@ -93,6 +94,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3718-smallest-missing-multiple-of-k) |
