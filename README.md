@@ -7,6 +7,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
+| [3360-stone-removal-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3360-stone-removal-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3360-stone-removal-game) |
 ## Greedy
 |  |
 | ------- |
