@@ -1,15 +1,12 @@
 class Solution {
     public boolean canAliceWin(int n) {
-        boolean f = true;
+        boolean f = false;
         int z = 10;
             while(n>=z){
                 n = n-z;
-                z--;
-                if(f==true)
-                f=  false;
-                else 
-                f = true;
+                z--;      
+            f = !f;
             }
-        return !f;
+        return f;
     }
 }
