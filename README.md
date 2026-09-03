@@ -142,4 +142,8 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
