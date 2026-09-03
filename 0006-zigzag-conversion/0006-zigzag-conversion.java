@@ -31,12 +31,12 @@ class Solution {
             }
             c++;
         }
-        String g = "";
+        StringBuilder sb = new StringBuilder("");
         for(int i = 0;i<matrix.size();i++){
             for(int j = 0;j<matrix.get(i).size();j++){
-                g = g+ matrix.get(i).get(j);
+             sb.append( matrix.get(i).get(j));
             }
         }
-        return g;
+        return sb.toString();
     }
 }
