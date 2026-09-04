@@ -33,6 +33,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3903-smallest-stable-index-i) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 ## Sorting
 |  |
@@ -146,4 +147,8 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0006-zigzag-conversion) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
