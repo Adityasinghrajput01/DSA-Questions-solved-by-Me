@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0342-power-of-four) |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0012-integer-to-roman) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0012-integer-to-roman) |
 ## Prefix Sum
 |  |
 | ------- |
