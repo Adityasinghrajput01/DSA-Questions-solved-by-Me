@@ -33,6 +33,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3903-smallest-stable-index-i) |
@@ -93,6 +94,7 @@
 | [0143-reorder-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0342-power-of-four) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3483-unique-3-digit-even-numbers) |
 ## Database
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | [0012-integer-to-roman](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0012-integer-to-roman) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Number Theory
 |  |
@@ -155,4 +158,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3903-smallest-stable-index-i) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
