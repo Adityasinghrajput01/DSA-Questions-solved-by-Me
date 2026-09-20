@@ -142,6 +142,7 @@
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3360-stone-removal-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0012-integer-to-roman) |
+| [3498-reverse-degree-of-a-string](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
