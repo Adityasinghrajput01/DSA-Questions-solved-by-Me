@@ -6,13 +6,13 @@ class Solution {
         }
         int count = 0;
         for (List<Integer>pos : map.values()) {
-            if (pos.size() < 3)
+            if (pos.size()<3)
           continue;
-         int gap = pos.get(1) - pos.get(0);
+         int gap = pos.get(1)-pos.get(0);
             boolean s = true;
             for (int j = 2; j < pos.size(); j++) {
-                int currentgap = pos.get(j) - pos.get(j - 1);
-                if (currentgap != gap) {
+                int currentgap =pos.get(j)-pos.get(j-1);
+                if (currentgap!=gap) {
                     s = false;
                     break;
                 }
