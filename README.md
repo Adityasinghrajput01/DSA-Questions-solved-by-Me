@@ -38,6 +38,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3903-smallest-stable-index-i) |
+| [3912-valid-elements-in-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3912-valid-elements-in-an-array) |
 | [3982-sum-of-integers-with-maximum-digit-range](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3982-sum-of-integers-with-maximum-digit-range) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
