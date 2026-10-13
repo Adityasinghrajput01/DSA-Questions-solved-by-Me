@@ -39,6 +39,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3903-smallest-stable-index-i) |
 | [3912-valid-elements-in-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3912-valid-elements-in-an-array) |
@@ -59,6 +60,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
