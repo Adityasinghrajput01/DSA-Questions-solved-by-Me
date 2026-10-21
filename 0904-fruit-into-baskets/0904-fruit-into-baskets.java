@@ -1,26 +1,18 @@
 class Solution {
     public int totalFruit(int[] fruits) {
         LinkedHashMap<Integer,Integer> map = new LinkedHashMap<>();
-        int low = 0,high=0,max = Integer.MIN_VALUE,max1 = Integer.MIN_VALUE;
-        while(high<fruits.length){
-        map.put(fruits[high],map.getOrDefault(fruits[high],0)+1);
-        if(map.size()<=2)
-        max=high-low+1;
-        else {
-        max1 = Math.max(max,max1);
-        while (map.size() > 2) {
-        int value =  map.get(fruits[low]);
-        map.put(fruits[low],value-1);
-        if (map.get(fruits[low])==0) {
-        map.remove(fruits[low]);
+        int low = 0,max = 0;
+        for(int high = 0;high<fruits.length;high++){
+            map.put(fruits[high],map.getOrDefault(fruits[high],0)+1);
+            while(map.size()>2){
+                map.put(fruits[low],map.get(fruits[low])-1);
+                if(map.get(fruits[low])==0){
+                    map.remove(fruits[low]);
+                }
+                low++;
+            }
+            max = Math.max(max,high-low+1);
         }
-        low++;     
-        }
-        max= high-low+1;
-        }
-        high++;
-        }
-        max1 = Math.max(max, max1);
-        return max1;
+        return max;
     }
 }
