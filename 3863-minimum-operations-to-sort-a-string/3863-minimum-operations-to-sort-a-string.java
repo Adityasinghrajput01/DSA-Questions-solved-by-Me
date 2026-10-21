@@ -12,7 +12,7 @@ class Solution {
         for(int i = 0;i<s.length();i++){
         if(s.charAt(s.length()-1)==s.charAt(i))
         count++;
-        else if(s.charAt(0)==s.charAt(i))
+         if(s.charAt(0)==s.charAt(i))
         countf++;
         }
         if(arr[0]==s.charAt(0) || arr[s.length()-1]==s.charAt(s.length()-1)){
