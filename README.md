@@ -30,6 +30,7 @@
 | [0031-next-permutation](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0209-minimum-size-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
 | [1288-remove-covered-intervals](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1288-remove-covered-intervals) |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0209-minimum-size-subarray-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -181,6 +183,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0209-minimum-size-subarray-sum) |
 | [3903-smallest-stable-index-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3903-smallest-stable-index-i) |
 ## Enumeration
 |  |
@@ -198,4 +201,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
