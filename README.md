@@ -33,6 +33,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0209-minimum-size-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0904-fruit-into-baskets) |
 | [1288-remove-covered-intervals](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0012-integer-to-roman) |
+| [0904-fruit-into-baskets](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -205,4 +207,5 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
