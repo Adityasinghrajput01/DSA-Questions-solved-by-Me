@@ -7,6 +7,7 @@
 | [0012-integer-to-roman](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0012-integer-to-roman) |
 | [0172-factorial-trailing-zeroes](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0172-factorial-trailing-zeroes) |
 | [0342-power-of-four](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0343-integer-break) |
 | [0836-rectangle-overlap](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
 | [3360-stone-removal-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3360-stone-removal-game) |
@@ -135,6 +136,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0343-integer-break) |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
