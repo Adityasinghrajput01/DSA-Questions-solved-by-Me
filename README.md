@@ -108,6 +108,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Recursion
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0145-binary-tree-postorder-traversal) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -231,6 +233,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
