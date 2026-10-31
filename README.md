@@ -231,6 +231,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0145-binary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1609-even-odd-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,4 +263,5 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1609-even-odd-tree](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1609-even-odd-tree) |
 <!---LeetCode Topics End-->
