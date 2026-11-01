@@ -189,6 +189,7 @@
 | [0006-zigzag-conversion](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0012-integer-to-roman) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [3340-check-balanced-string](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Prefix Sum
