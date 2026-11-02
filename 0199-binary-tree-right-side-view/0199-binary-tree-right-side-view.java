@@ -21,15 +21,15 @@ class Solution {
         return list;
         queue.offer(root);
         while(!queue.isEmpty()){
-            List<Integer> sub = new ArrayList<>();
             int l = queue.size();
+            int z = 0;
             for(int i = 0;i<l;i++){
                 TreeNode node = queue.poll();
-                sub.add(node.val);
+                z = node.val;
                 if(node.left!=null)queue.offer(node.left);
                 if(node.right!=null)queue.offer(node.right);
             }
-            list.add(sub.get(sub.size()-1));
+            list.add(z);
         }
         return list;
     }
