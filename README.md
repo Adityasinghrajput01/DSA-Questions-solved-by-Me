@@ -30,6 +30,7 @@
 | [0018-4sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0031-next-permutation) |
+| [0055-jump-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0209-minimum-size-subarray-sum) |
@@ -149,6 +150,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0343-integer-break](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0343-integer-break) |
 | [0877-stone-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0877-stone-game) |
@@ -183,6 +185,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0055-jump-game) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Adityasinghrajput01/DSA-Questions-solved-by-Me/tree/master/3727-maximum-alternating-sum-of-squares) |
